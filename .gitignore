@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# Test/coverage caches
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Linters/formatters/type checkers
+.ruff_cache/
+.mypy_cache/
+.pyre/
+.pytype/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local artifacts produced by scripts
+artifacts/*
+!artifacts/**/.gitkeep
