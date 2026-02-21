@@ -145,9 +145,6 @@ littlebrain-rlcard/
 
 ## References
 
-- Menuhin, S. & Naor, J. (2025). *How to Shuffle in Sublinear Memory*. [arXiv:2505.01287](https://arxiv.org/abs/2505.01287)
+- Menuhin, S. & Naor, J. (2025). *Shuffling Cards When You Are of Very Little Brain: Low Memory Generation of Permutations*. [arXiv:2505.01287](https://arxiv.org/abs/2505.01287)
 - Zha, D., et al. (2020). *RLCard: A Platform for Reinforcement Learning in Card Games*. [GitHub](https://github.com/datamllab/rlcard)
 
-## License
-
-MIT — see [LICENSE](LICENSE).
