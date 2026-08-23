@@ -2,7 +2,7 @@
 
 **Dealer algorithms from [arXiv:2505.01287](https://arxiv.org/abs/2505.01287) integrated with [RLCard](https://github.com/datamllab/rlcard).**
 
-This repository implements four card-dealer algorithms — BitmapDealer, FisherYatesDealer, AdaptiveThresholdDealer, and PerfectDealer — with a uniform interface, and integrates them into RLCard as two custom environments:
+This repository implements four card-dealer algorithms: BitmapDealer, FisherYatesDealer, AdaptiveThresholdDealer, and PerfectDealer with a uniform interface, and integrates them into RLCard as two custom environments:
 
 | Environment ID | Description |
 |---|---|
